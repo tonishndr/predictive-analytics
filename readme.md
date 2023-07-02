@@ -1,5 +1,3 @@
-# Laporan Proyek Machine Learning - Toni Suhendar
-
 ![Alt text](src/pa.png)
 
 ---
